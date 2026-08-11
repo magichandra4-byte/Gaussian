@@ -56,7 +56,7 @@ for i in range(n):
 ![alt text](<Screenshot (76).png>)
 ![alt text](<Screenshot (77).png>)
 ![alt text](<Screenshot (78).png>)
-
+[text](<git ex6.pdf>)
 
 
 ## Result:
